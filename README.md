@@ -1,2 +1,2 @@
 # AI-DETECTION-EDUCATION
-Detecting AI/LLM influence in academic writing"
+Detecting AI/LLM influence in academic writing
